@@ -8,6 +8,6 @@ Esperamos que a rota '/modulos' retorne um código de status HTTP específico, q
 
 ### Resultados Obtidos
 
-Juro que tentei de várias formas fazer com que o teste desse certo, mas em todas ele falhou kkk. 
+Juro que tentei de várias formas fazer com que o teste desse certo, mas em todas ele falhou kkk (será se sou o erro na matrix?). 
 
 
